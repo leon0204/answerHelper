@@ -20,9 +20,9 @@ elif(is_end==0):
 
 
 
-APP_ID = '10692930'
-API_KEY = 'GSDyoFK1Ew8v2GsahMXaEyx2'
-SECRET_KEY = 'ozIPukxXf3oHvtKCNYy8fDDBjCCcaZez'
+APP_ID = 'xxx'
+API_KEY = 'xxx'
+SECRET_KEY = 'xxx'
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
 c = wda.Client()
