@@ -15,9 +15,10 @@
 ## pip3 模块： baidu-aip  lxml  Pillow  requests bs4 wda
 
 # 使用方法：
+
   ```
-      python3  answer.py  1
-      # 这里 1 是 调节 截图大小的参数
+  # 这里 1 是 调节 截图大小的参数
+  python3  answer.py  1
   ```
 
 ## 需要去配置百度的api ，注册，获取 APP_ID，API_KEY，SECRET_KEY 
