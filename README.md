@@ -15,13 +15,25 @@
 -  pip3 模块： baidu-aip  lxml  Pillow  requests bs4 wda
 
 # 使用方法：
+ADB连接 ios 真机之后，开启 iproxy 监听，执行 python 程序
+ ```python3  answer.py  1 ```
+ 
+ 
+ 运行效果
+ ![运行效果](https://www.leon0204.com/img/github/answerHelper1.png)
 
-  ```
-  这里 1 是 调节 截图大小的参数
-  python3  answer.py  1
-  
-  ```
+ 截图
+ ![运行效果](https://www.leon0204.com/img/github/answerHelper2.png)
+ 
+  部分图片
+ ![运行效果](https://www.leon0204.com/img/github/answerHelper3.png)
+ 
+ 
+ 实际运行效果感受：
+ 50% 成功率吧，受查询题目限制，比如数学类题目就基本查不到答案，时间上比较紧张 
 
 ## 需要去配置百度的api ，注册，获取 APP_ID，API_KEY，SECRET_KEY 
+
+欢迎 PR 交流讨论
 
    
